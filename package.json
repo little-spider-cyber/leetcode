@@ -1,0 +1,13 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "lk -i 217",
+    "fetch": "lf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
