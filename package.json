@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "lk -i 2694",
+    "test": "lk -i 704",
     "fetch": "lf"
   },
   "keywords": [],
